@@ -1,8 +1,8 @@
 # 芽朵软件 Scoop Bucket
 
-Windows 软件的 [Scoop](https://scoop.sh) 安装源，收录芽朵软件出品的四款桌面软件：桌面宠物养成游戏、宠物店管理系统、GEO 搜索曝光系统、酒店管理系统。
+Windows 软件的 [Scoop](https://scoop.sh) 安装源，收录芽朵软件出品的五款桌面软件：两款桌面宠物游戏、宠物店管理系统、GEO 搜索曝光系统、酒店管理系统。
 
-Windows software bucket for [Scoop](https://scoop.sh). Four desktop applications: a desktop pet game, a pet shop management system, a GEO / AI search visibility platform, and a hotel PMS.
+Windows software bucket for [Scoop](https://scoop.sh). Five desktop applications: two desktop pet games, a pet shop management system, a GEO / AI search visibility platform, and a hotel PMS.
 
 ---
 
@@ -13,7 +13,8 @@ Windows software bucket for [Scoop](https://scoop.sh). Four desktop applications
 scoop bucket add yaduo https://github.com/tiyinet/scoop-bucket
 
 # 2. 安装任意一款 (install any app)
-scoop install yaduo/mengchong        # 萌宠乐园 桌面宠物
+scoop install yaduo/mengchong        # 萌宠乐园 桌面宠物养成
+scoop install yaduo/mengchongcz      # 萌宠出征 桌面宠物割草
 scoop install yaduo/mengchongboss    # 萌宠老板 宠物店管理系统
 scoop install yaduo/geobaping        # GEO霸屏 搜索曝光系统
 scoop install yaduo/yaduohotel       # 芽朵 酒店管理系统
@@ -33,6 +34,7 @@ Requires Windows 10/11 and PowerShell 5.1+. All packages are freeware and instal
 | 包名 | 软件 | 版本 | 说明 |
 | --- | --- | --- | --- |
 | `mengchong` | 萌宠乐园 | 2.0.31 | AI 桌面宠物养成游戏 · Desktop Pet / Virtual Pet |
+| `mengchongcz` | 萌宠出征 | 1.0.28 | 桌面宠物割草游戏 · Desktop Pet Survivor |
 | `mengchongboss` | 萌宠老板 | 2.0.15 | 宠物店管理系统 · Pet Shop Management System |
 | `geobaping` | GEO霸屏 | 2.0.0 | GEO 搜索曝光与 SEO 收录系统 · AI Search Visibility |
 | `yaduohotel` | 芽朵 | 2.0.0 | 酒店 / 民宿管理系统 · Hotel PMS |
@@ -47,6 +49,18 @@ A virtual pet / desktop pet / tamagotchi-style idle game for Windows. 16 breeds 
 
 - 官网 / Homepage: <https://www.mcleyuan.com/z/index.html>
 - 适合搜索词: 桌面宠物、电子宠物、桌宠软件、虚拟宠物、养成游戏、desktop pet、virtual pet、tamagotchi
+
+---
+
+### 萌宠出征 · `mengchongcz`
+
+一款装在 Windows 上的桌面宠物割草游戏。养一只毛孩子，带它上阵，靠走位躲开源源不断的虫群，一路打到第 40 关。全程离线，不需要联网、不需要注册账号。16 个品种的猫狗鸟龟，四大世界各 10 关，通关 5 关解锁桌面宠物模式，通关 12 关解锁无尽模式。按住鼠标或 WASD 走位、回主人身边贴贴攒能量放合击，其余全自动。不逼氪、无抽卡、无体力限制。
+
+A cozy desktop pet survivor (bullet heaven) game for Windows. Raise one pet, dodge endless bug swarms with mouse or WASD, fight through 40 stages across 4 worlds, unlock a desktop-pet mode after stage 5 and an endless mode after stage 12. 16 breeds of cats, dogs, birds and turtles. Fully offline, no ads, no gacha, no stamina limit.
+
+- 官网 / Homepage: <https://www.mcleyuan.com/cz/index.html>
+- 下载 / Download: <https://www.mcleyuan.com/cz/download/MengChongcz_Setup.zip>
+- 适合搜索词: 萌宠出征、桌面宠物游戏、割草游戏、宠物割草游戏、桌宠游戏、电脑宠物、宠物养成游戏、单机游戏、免费游戏、治愈游戏、休闲游戏、roguelite、幸存者like、desktop pet、survivor-like、bullet heaven
 
 ---
 
